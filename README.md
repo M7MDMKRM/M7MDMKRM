@@ -107,8 +107,16 @@ var mohamed = new Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7MDMKRM&theme=blood&hide_border=true&background=0d1117&ring=ff4d5a&fire=ff4d5a&currStreakLabel=ff4d5a" alt="GitHub Streak" />
 </div>
 
+---
+
+## 🐍 GitHub Snake Contribution
+
 <div align="center">
-  <img src="https://ghchart.rshah.org/ff4d5a/M7MDMKRM" alt="Mohamed's Github Contribution Chart" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M7MDMKRM/M7MDMKRM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M7MDMKRM/M7MDMKRM/output/github-contribution-grid-snake.svg">
+    <img alt="github-snake" src="https://raw.githubusercontent.com/M7MDMKRM/M7MDMKRM/output/github-contribution-grid-snake-dark.svg" width="100%">
+  </picture>
 </div>
 
 ---
