@@ -107,9 +107,7 @@ var mohamed = new Developer
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M7MDMKRM&theme=blood&hide_border=true&background=0d1117&ring=ff4d5a&fire=ff4d5a&currStreakLabel=ff4d5a" alt="GitHub Streak" />
 </div>
 
----
-
-## 🐍 GitHub Snake Contribution
+<br/>
 
 <div align="center">
   <picture>
