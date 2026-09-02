@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=200&section=header&text=Mohamed%20Mkram&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=.NET%20Backend%20Developer%20%7C%20Software%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:b31d28,100:ff4d5a&height=200&section=header&text=Mohamed%20Mkram&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=.NET%20Backend%20Developer%20%7C%20Software%20Engineer&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&height=45&lines=ASP.NET+Core+%7C+Clean+Architecture+%7C+RESTful+APIs;Building+Scalable+ERP+%26+POS+Enterprise+Systems+%F0%9F%9A%80;1st+Place+Robotics+Regional+Champion+%F0%9F%8F%86;Let%27s+Build+Something+Impactful+Together!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=FF4D5A&center=true&vCenter=true&width=750&height=45&lines=ASP.NET+Core+%7C+Clean+Architecture+%7C+RESTful+APIs;Building+Scalable+ERP+%26+POS+Enterprise+Systems+%F0%9F%9A%80;1st+Place+Robotics+Regional+Champion+%F0%9F%8F%86;Let%27s+Build+Something+Impactful+Together!" />
 </a>
 
 </div>
